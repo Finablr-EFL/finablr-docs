@@ -1,0 +1,25 @@
+
+introduction:
+  label: Introduction
+  permalink: /introduction
+  description: Introduction tag description
+welcome:
+  label: Welcome
+  permalink: /welcome
+  description: Welcome tag description
+borrower:
+  label: Borrower
+  permalink: /borrowers
+  description: Borrower tag description
+lender:
+  label: Lender
+  permalink: /lenders
+  description: Lender tag description
+contracts:
+  label: Contracts
+  permalink: /contracts
+  description: Contract tag description
+loans:
+  label: Loans
+  permalink: /loans
+  description: Loan tag description
